@@ -1,6 +1,5 @@
 import csv
 filename = 'sales.csv'
-
 with open('sales.csv','r') as csv_file:
     csvReader=csv.reader(csv_file)
     for row in csvReader:
