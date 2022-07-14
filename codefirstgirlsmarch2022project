@@ -1,1 +1,21 @@
-The "sales.csv" file was first successfully imported manually to Pycharm and then printed line by line using the code from line 1-7. The total number of scores (which is £45542) for each month was then calculated using the code from line 9-10. Lastly, the sales from each month was then listed using the code from line 11-21.
+import csv
+filename = 'sales.csv'
+
+with open('sales.csv','r') as csv_file:
+    csvReader=csv.reader(csv_file)
+    for row in csvReader:
+        print(row)
+
+sales = [6226, 1521,  1842, 2051, 1728, 2138, 7479, 4434, 3615, 5472, 7224, 1812]
+total = sum(sales)
+print("The total of all sales is: £",sum(sales))
+with open('sales.csv','r') as csv_file:
+    csvReader=csv.reader(csv_file)
+
+    next(csvReader)
+
+    for line in csvReader:
+        sales.append
+
+    print(sales)
+    print(type(sales))
