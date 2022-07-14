@@ -1,0 +1,1 @@
+The "sales.csv" file was first successfully imported manually to Pycharm and then printed line by line using the code from line 1-7. The total number of scores (which is £45542) for each month was then calculated using the code from line 9-10. Lastly, the sales from each month was then listed using the code from line 11-21.
