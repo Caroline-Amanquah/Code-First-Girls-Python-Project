@@ -1,4 +1,4 @@
-Hi There, my name is Caroline 👋
+Hi there, my name is Caroline 👋
 
 I'm an aspiring software engineer that possesses effective interpersonal and analytical skills and has demonstrated the ability 
 to be creative-minded, detail-orientated, and hardworking. I am a keen learner of designing, planning, and maintaining
