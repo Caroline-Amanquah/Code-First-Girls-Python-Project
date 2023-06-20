@@ -18,3 +18,4 @@ with open('sales.csv','r') as csv_file:
 
     print(sales)
     print(type(sales))
+    
